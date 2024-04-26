@@ -3,10 +3,15 @@
 A3
 
 https://leetcode.com/problems/concatenation-of-array/description/
+
 https://leetcode.com/problems/build-array-from-permutation/description/
+
 https://leetcode.com/problems/number-of-good-pairs/description/
+
 https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
+
 https://leetcode.com/problems/running-sum-of-1d-array/description/
+
 https://leetcode.com/problems/richest-customer-wealth/description/
 ![image](https://github.com/yuvicann/Python-Practice-Questions-/assets/66309345/8056d0d0-1e4e-4115-b1fd-6dbc6b7eab12)
 
