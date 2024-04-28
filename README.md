@@ -77,6 +77,8 @@ A7
 
 https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
 
+https://leetcode.com/problems/sort-the-people/description/
+
 
 
 
