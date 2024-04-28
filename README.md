@@ -13,7 +13,7 @@ https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-numb
 https://leetcode.com/problems/running-sum-of-1d-array/description/
 
 https://leetcode.com/problems/richest-customer-wealth/description/
-![image](https://github.com/yuvicann/Python-Practice-Questions-/assets/66309345/8056d0d0-1e4e-4115-b1fd-6dbc6b7eab12)
+
 
 A4
 
@@ -31,7 +31,7 @@ A4
 	
 11.	https://leetcode.com/problems/majority-element/description/
 	
-![image](https://github.com/yuvicann/Python-Practice-Questions-/assets/66309345/c5f64689-85b1-451d-a74e-8ed3982046e3)
+
 
 A5
 
@@ -55,7 +55,7 @@ A5
 	
 19.	https://leetcode.com/problems/next-greater-element-i/description/
 	
-![image](https://github.com/yuvicann/Python-Practice-Questions-/assets/66309345/6803a292-f0b4-49a6-a6b2-e0b20bd5e2ce)
+
 
 
 A6
@@ -70,7 +70,12 @@ https://leetcode.com/problems/defanging-an-ip-address/description/
 
 https://leetcode.com/problems/score-of-a-string/description/
 
-![image](https://github.com/yuvicann/Python-Practice-Questions-/assets/66309345/94ac965b-d75f-4bcd-b3df-71fb9d29b80f)
+
+
+
+A7
+
+https://leetcode.com/problems/count-the-number-of-consistent-strings/description/
 
 
 
