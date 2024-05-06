@@ -101,6 +101,14 @@ Basic q you know
 
 
 
+imp interview ques
+
+875
+1011
+
+
+
+
 
 
 
