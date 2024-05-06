@@ -79,6 +79,27 @@ https://leetcode.com/problems/count-the-number-of-consistent-strings/description
 
 https://leetcode.com/problems/sort-the-people/description/
 
+Leetcode Problems
+17,  
+41, hard
+1684,     y
+2418,     y
+2956,     y
+2103,   no,
+1748,    y
+1941,   y
+359,    premium
+2032,  y
+2053,  y
+500,  no,
+929.  no
+
+Basic q you know
+
+1011,875,1528,2367,1732,1572,1464,832,2418,1108,1221,2325,771,2810,1859,1021,1684,3005,1748,2670,961,2965,2469,2413,1588,1252,728
+
+
+
 
 
 
